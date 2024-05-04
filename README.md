@@ -7,7 +7,7 @@ Me llamo, este perfil fue creado con al intencion de crecer como *profesional*.E
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
-[![C](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)](https://github.com/)
+[![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white&labelColor=101010)](https://github.com/)
 
 
 
